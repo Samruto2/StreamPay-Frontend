@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/soroban-contracts-scaffold",
+    "main",
+    "origin",
+    "task/walletbadge-focus-v7"
+  ],
+  "parent": {
+    "feat/soroban-contracts-scaffold": "main",
+    "main": null,
+    "origin": "main",
+    "task/walletbadge-focus-v7": "main"
+  },
+  "order": [
+    "main",
+    "feat/soroban-contracts-scaffold",
+    "origin",
+    "task/walletbadge-focus-v7"
+  ]
+}
